@@ -1,0 +1,30 @@
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2940&auto=format&fit=crop&ixlib-rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8FA%3D%30);
+    height: 1%;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 0%;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white
+}
+
+.about-us {
+    margin-top: 50px;
+}
+
+.serivces {
+    margin-top: 70px;
+}
+
+.footer {
+    background-color: #1E2329;
+    height: 80px;
+}
